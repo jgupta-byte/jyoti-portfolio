@@ -1,1 +1,1 @@
-http://127.0.0.1:5500/index.html
+file:///C:/Users/pravi/OneDrive/Desktop/my%20info/index.html
